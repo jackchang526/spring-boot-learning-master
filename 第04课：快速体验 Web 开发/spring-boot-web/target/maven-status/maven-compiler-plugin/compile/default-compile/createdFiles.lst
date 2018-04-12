@@ -1,0 +1,6 @@
+com\neo\domain\User.class
+com\neo\comm\NeoProperties.class
+com\neo\web\WebController.class
+com\neo\filter\MyFilter.class
+com\neo\WebApplication.class
+com\neo\filter\WebConfiguration.class
